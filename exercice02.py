@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 import numpy as np
 
 # Exercice 2 qst 1 :
@@ -83,10 +77,3 @@ print('\n Question 3: ')
 print('\nla matrice C=', C ,' :')
 d = 2
 print('\nla matrice C=', C , ' puissance ',d,' = \n',matrice_puissanceM(C, d))    
-
-
-# In[ ]:
-
-
-
-
